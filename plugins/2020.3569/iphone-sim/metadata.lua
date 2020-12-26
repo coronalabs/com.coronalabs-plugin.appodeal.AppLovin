@@ -4,7 +4,7 @@ local metadata =
 	{
 		format = 'staticLibrary',
 		staticLibs = { },
-		frameworks = { },
+		frameworks = { 'AppLovinSDK', },
 		frameworksOptional = {},
 	},
 }
