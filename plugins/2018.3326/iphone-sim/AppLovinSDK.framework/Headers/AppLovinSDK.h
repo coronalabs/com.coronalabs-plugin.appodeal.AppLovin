@@ -17,6 +17,8 @@
 #import <AppLovinSDK/ALCEntity.h>
 #import <AppLovinSDK/ALCMessage.h>
 #import <AppLovinSDK/ALCMessagingService.h>
+#import <AppLovinSDK/ALCMPError.h>
+#import <AppLovinSDK/ALCMPService.h>
 #import <AppLovinSDK/ALCPublisher.h>
 #import <AppLovinSDK/ALCSubscriber.h>
 #import <AppLovinSDK/ALErrorCodes.h>
@@ -36,7 +38,6 @@
 #import <AppLovinSDK/ALTargetingData.h>
 #import <AppLovinSDK/ALUserSegment.h>
 #import <AppLovinSDK/ALUtils.h>
-#import <AppLovinSDK/ALVariableService.h>
 #import <AppLovinSDK/MAAd.h>
 #import <AppLovinSDK/MAAdapterError.h>
 #import <AppLovinSDK/MAAdapterParameters.h>

@@ -7,12 +7,12 @@
 //
 
 @class ALAdService;
+@class ALCMPService;
 @class ALEventService;
 @class ALSdkConfiguration;
 @class ALSdkSettings;
 @class ALTargetingData;
 @class ALUserSegment;
-@class ALVariableService;
 @class MAMediatedNetworkInfo;
 
 NS_ASSUME_NONNULL_BEGIN
@@ -93,12 +93,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong, readonly) ALEventService *eventService;
 
 /**
- * Get an instance of the AppLovin variable service. This service is used to perform various A/B tests that you have set up on your AppLovin dashboard on your
- * users.
+ * The CMP service, which provides direct APIs for interfacing with the Google-certified CMP installed, if any.
  *
- * @return Variable service. Guaranteed not to be @c NULL.
+ * @return CMP service. Guaranteed not to be @c NULL.
  */
-@property (nonatomic, strong, readonly) ALVariableService *variableService;
+@property (nonatomic, strong, readonly) ALCMPService *cmpService;
 
 #pragma mark - MAX
 

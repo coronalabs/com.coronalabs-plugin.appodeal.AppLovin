@@ -14,6 +14,27 @@ NS_ASSUME_NONNULL_BEGIN
 @interface ALSdkConfiguration : NSObject
 
 /**
+ * This enum represents the user's geography used to determine the type of consent flow shown to the user.
+ */
+typedef NS_ENUM(NSInteger, ALConsentFlowUserGeography)
+{
+    /**
+     * User's geography is unknown.
+     */
+    ALConsentFlowUserGeographyUnknown,
+    
+    /**
+     * The user is in GDPR region.
+     */
+    ALConsentFlowUserGeographyGDPR,
+    
+    /**
+     * The user is in a non-GDPR region.
+     */
+    ALConsentFlowUserGeographyOther
+};
+
+/**
  * AppLovin SDK-defined app tracking transparency status values (extended to include "unavailable" state on iOS before iOS14).
  */
 typedef NS_ENUM(NSInteger, ALAppTrackingTransparencyStatus)
@@ -45,6 +66,12 @@ typedef NS_ENUM(NSInteger, ALAppTrackingTransparencyStatus)
 };
 
 /**
+ * Get the user's geography used to determine the type of consent flow shown to the user.
+ * If no such determination could be made, @c ALConsentFlowUserGeographyUnknown will be returned.
+ */
+@property (nonatomic, assign, readonly) ALConsentFlowUserGeography consentFlowUserGeography;
+
+/**
  * Gets the country code for this user. The value of this property will be an empty string if no country code is available for this user.
  *
  * @warning Do not confuse this with the <em>currency</em> code which is "USD" in most cases.
@@ -71,6 +98,19 @@ typedef NS_ENUM(NSInteger, ALAppTrackingTransparencyStatus)
 
 - (instancetype)init NS_UNAVAILABLE;
 + (instancetype)new NS_UNAVAILABLE;
+
+/**
+ * Whether or not test mode is enabled for this session.
+ *
+ * @return @c YES in one of the following cases:
+ * <ul>
+ * <li> 1. @code ALSdkSettings.testDeviceAdvertisingIdentifiers @endcode was set with current device's IDFA prior to SDK initialization.</li>
+ * <li> 2. Current device was registered as a test device through MAX dashboard -> MAX Test Devices prior to SDK initialization.</li>
+ * <li> 3. Test mode was manually enabled for this session through the Mediation Debugger during the last session.</li>
+ * <li> 4. Current device is a simulator.</li>
+ * </ul>
+ */
+@property (nonatomic, assign, readonly, getter=isTestModeEnabled) BOOL testModeEnabled;
 
 @end
 

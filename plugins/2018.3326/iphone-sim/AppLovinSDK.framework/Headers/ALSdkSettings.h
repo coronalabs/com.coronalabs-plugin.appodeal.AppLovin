@@ -5,15 +5,17 @@
 //  Copyright © 2020 AppLovin Corporation. All rights reserved.
 //
 
+#import <AppLovinSDK/ALSdkConfiguration.h>
+
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- * This class contains settings that enable the AppLovin consent flow.
+ * This class contains settings that enable the AppLovin Terms Flow.
  */
 @interface ALConsentFlowSettings : NSObject
 
 /**
- * Set this to @c YES to enable the consent flow. You must also provide your privacy policy and terms of service URLs in this object, and you must provide a
+ * Set this to @c YES to enable the Terms Flow. You must also provide your privacy policy and terms of service URLs in this object, and you must provide a
  * @c NSUserTrackingUsageDescription string in your @code Info.plist @endcode file.
  *
  * This defaults to the value that you entered into your @code Info.plist @endcode file via @c AppLovinConsentFlowInfo ⇒ @c AppLovinConsentFlowEnabled.
@@ -21,14 +23,14 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign, getter=isEnabled) BOOL enabled;
 
 /**
- * URL for your company’s privacy policy. This is required in order to enable the consent flow.
+ * URL for your company’s privacy policy. This is required in order to enable the Terms Flow.
  *
  * This defaults to the value that you entered into your @code Info.plist @endcode file via @c AppLovinConsentFlowInfo ⇒ @c AppLovinConsentFlowPrivacyPolicy.
  */
 @property (nonatomic, copy, nullable) NSURL *privacyPolicyURL;
 
 /**
- * URL for your company’s terms of service. This is optional; you can enable the consent flow with or without it.
+ * URL for your company’s terms of service. This is optional; you can enable the Terms Flow with or without it.
  *
  * This defaults to the value that you entered into your @code Info.plist @endcode file via @c AppLovinConsentFlowInfo ⇒ @c AppLovinConsentFlowTermsOfService.
  */
@@ -40,14 +42,28 @@ NS_ASSUME_NONNULL_BEGIN
 @end
 
 /**
+ * This interface contains settings that enable the MAX Terms and Privacy Policy Flow.
+ */
+@interface ALTermsAndPrivacyPolicyFlowSettings : ALConsentFlowSettings
+
+/**
+ * Set debug user geography. You may use this to test CMP flow by setting this to @c ALConsentFlowUserGeographyGDPR.
+ *
+ * NOTE: The debug geography is used only when the app is in debug mode.
+ */
+@property (nonatomic, assign) ALConsentFlowUserGeography debugUserGeography;
+
+@end
+
+/**
  * This class contains settings for the AppLovin SDK.
  */
 @interface ALSdkSettings : NSObject
 
 /**
- * Settings relating to the AppLovin consent flow.
+ * Settings relating to the MAX Terms and Privacy Policy Flow.
  */
-@property (nonatomic, strong, readonly) ALConsentFlowSettings *consentFlowSettings;
+@property (nonatomic, strong, readonly) ALTermsAndPrivacyPolicyFlowSettings *termsAndPrivacyPolicyFlowSettings;
 
 /**
  * A toggle for verbose logging for the SDK. This is set to @c NO by default. Set it to @c NO if you want the SDK to be silent (this is recommended for App Store
@@ -114,6 +130,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ALSdkSettings (ALDeprecated)
 @property (nonatomic, assign) BOOL isVerboseLogging __deprecated_msg("This property is deprecated and will be removed in a future SDK version. Please use `-[ALSdkSettings isVerboseLoggingEnabled]` instead.");
+@property (nonatomic, strong, readonly) ALConsentFlowSettings *consentFlowSettings __deprecated_msg("This property is deprecated and will be removed in a future SDK version. Use the new MAX Terms and Privacy Policy Flow instead (see ALSdkSettings.termsAndPrivacyPolicyFlowSettings)");
 @end
 
 NS_ASSUME_NONNULL_END
