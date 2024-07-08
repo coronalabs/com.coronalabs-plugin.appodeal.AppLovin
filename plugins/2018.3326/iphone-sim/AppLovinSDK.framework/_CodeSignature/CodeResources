@@ -4,6 +4,211 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowATT.json</key>
+		<data>
+		B68lBq++BAY+jMXppPQMeodKf6Y=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowPrivacyPolicy.json</key>
+		<data>
+		enyHoRRZjqG0QtIreZ5uiMYon1w=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowPrivacyPolicyAndATT.json</key>
+		<data>
+		M1YfYt8Q3Tngv9OPVAIjkZXWZ9g=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowTermsOfServiceAndPrivacyPolicy.json</key>
+		<data>
+		Nno9A+Zy29yupWDRdQb4wo3vGhs=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowTermsOfServiceAndPrivacyPolicyAndATT.json</key>
+		<data>
+		vr86VwQ/b4cOzV27eqTu2wNioxY=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowUnifiedCMP.json</key>
+		<data>
+		3pB6zSdaV+Z8cSBJ0rdpDjBeQ+s=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALDDetailTableViewCell.nib</key>
+		<data>
+		Zyi97C3fqF3nuoSWx0vZ2rlSrHs=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALDMultiAdViewController.storyboardc/3jf-B1-XNL-view-Iqa-CO-DFs.nib</key>
+		<data>
+		OUumxhxGK6JY0ouO409PaBcLlRo=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALDMultiAdViewController.storyboardc/ALDMultiAdViewController.nib</key>
+		<data>
+		YixE7Ily2Gx2iXBG2tTtK+vc4b0=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALDMultiAdViewController.storyboardc/Info.plist</key>
+		<data>
+		xijY85+UClEbMFNODNsBsfMLfPk=
+		</data>
+		<key>AppLovinSDKResources.bundle/ALDRightDetailTableViewCell.nib</key>
+		<data>
+		lZuWY0s70xQfBKFvaZMzYdcQX4o=
+		</data>
+		<key>AppLovinSDKResources.bundle/Assets.car</key>
+		<data>
+		HUNPz/aUoOxUjKaOxdzA0KaR5fw=
+		</data>
+		<key>AppLovinSDKResources.bundle/Base.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8pvUn0qQ2xTKSNX6tpyIHSqzp3E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/Info.plist</key>
+		<data>
+		ANSJGfiMqQiuSt1xLlH9G502NB4=
+		</data>
+		<key>AppLovinSDKResources.bundle/MAHybridNativeAdView.nib</key>
+		<data>
+		vexfWf9Q6UU9GOyqEi/3MYhzNnc=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdBannerView.nib</key>
+		<data>
+		Zhnd0D190bTEci4hfkcvnjE5MiU=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdLeaderView.nib</key>
+		<data>
+		W8n09k/qe4GZ8GkuC1qxAxA+tf4=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdMRecView.nib</key>
+		<data>
+		t23bFlKJkY0k7rJd342cniG/SV8=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdMediaBannerView.nib</key>
+		<data>
+		8h9oVqkvdECBLXJpt/XR2b4XKcQ=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdMediumTemplate1.nib</key>
+		<data>
+		JSPAJ+qqDHArQPPIRyt0a79Im7c=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdSmallTemplate1.nib</key>
+		<data>
+		g9B+CRz+6arjXe59t8i2fb35dbE=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdVerticalBannerView.nib</key>
+		<data>
+		aNr+7OqR/d0p1c7vc7M8Dx4BdQ4=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdVerticalLeaderView.nib</key>
+		<data>
+		mBmWf7kQLoneFqk/tfE7qhTXJus=
+		</data>
+		<key>AppLovinSDKResources.bundle/MANativeAdVerticalMediaBannerView.nib</key>
+		<data>
+		2kqq27Qoue4IF/+49Vd34PW7jo4=
+		</data>
+		<key>AppLovinSDKResources.bundle/OMLICENSE</key>
+		<data>
+		Eq/AvBcL2+jfm6NHJidXNHfgAcM=
+		</data>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		TejLqpqgIcII1z5gsefoKC2bSxA=
+		</data>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		UpIjq6EbOGzf3T9m6ktt/ETu+XA=
+		</data>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		3TqqKzdrRpcYhSwdRBfjSX6W7qo=
+		</data>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>AppLovinSDKResources.bundle/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ohhHvMyMKZVhQHXV+J/usUwLslQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8pvUn0qQ2xTKSNX6tpyIHSqzp3E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J/x2Yz28jZFPsr0V02HiyGDDUpU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aEyTBN1QDxMWNy8U0M4oObT1QDs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RoOmq/+S/CtK1Gn53iWsCTGIHlA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WdngiPQi12OfpuFcuaTOgVKtYAM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/mute.aiff</key>
+		<data>
+		xrLmOHGKRkA1PdlxjX8QdhUlYC8=
+		</data>
+		<key>AppLovinSDKResources.bundle/omsdk-v1.4.12.js</key>
+		<data>
+		xFoo41tIvFKNNRq9NwW500wQtM8=
+		</data>
+		<key>AppLovinSDKResources.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sqX/YwkwsL3gUrf1zFkTDvstel8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CMHCzbGGWkb1Mxtxi4jCK2Qb208=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Headers/ALAd.h</key>
 		<data>
 		8pEoTqP3JSyx/PifZtsZr9etU0Y=
@@ -22,11 +227,11 @@
 		</data>
 		<key>Headers/ALAdService.h</key>
 		<data>
-		JbVarfZnDq3HanLDbu4YBUF4PfY=
+		IUsmq0G+srSPWDW5EF3mcGfnzvM=
 		</data>
 		<key>Headers/ALAdSize.h</key>
 		<data>
-		FPq4FvpNe+a2Q1nlx8bTQVYCJlM=
+		95yiMGL1sQuKj+qMifL3M3eg/vM=
 		</data>
 		<key>Headers/ALAdType.h</key>
 		<data>
@@ -38,7 +243,7 @@
 		</data>
 		<key>Headers/ALAdView.h</key>
 		<data>
-		1IxKLlZjgTGC9JfJaD87LES6qM4=
+		7kn0J8kUxhpkgEkyuUq+DHc4HDU=
 		</data>
 		<key>Headers/ALAdViewEventDelegate.h</key>
 		<data>
@@ -47,6 +252,10 @@
 		<key>Headers/ALAtomicBoolean.h</key>
 		<data>
 		HuZTv0v7ubV4kly5mqH06yYccFs=
+		</data>
+		<key>Headers/ALAtomicReference.h</key>
+		<data>
+		5VUvVjU9nVH/fjoAAF9XeaHCjVs=
 		</data>
 		<key>Headers/ALCCommunicator.h</key>
 		<data>
@@ -82,7 +291,7 @@
 		</data>
 		<key>Headers/ALErrorCodes.h</key>
 		<data>
-		l+Hdmt0vgwlJcwuwb5A00qJvzYc=
+		nFJEtZ4Urhdwbet+CqhfgedRGx0=
 		</data>
 		<key>Headers/ALEventService.h</key>
 		<data>
@@ -110,7 +319,7 @@
 		</data>
 		<key>Headers/ALMediationAdapterRouter.h</key>
 		<data>
-		iHqwfZVKRvTOEMYtr+6NNr67Jzc=
+		7FdorOhyjviiPTzVrGNaiMnE4WE=
 		</data>
 		<key>Headers/ALMediationProvider.h</key>
 		<data>
@@ -122,39 +331,47 @@
 		</data>
 		<key>Headers/ALPrivacySettings.h</key>
 		<data>
-		GtvUV3iJX3Ehm+9laRM+6udhmBE=
+		K8NbPwrPFpOEqE/iFSG9yItqCMo=
 		</data>
 		<key>Headers/ALSdk.h</key>
 		<data>
-		MHvleyQGj14DqEzWppKcVDO5XZQ=
+		Lfo5lp4gNa004ojc+nQPPaSqfDE=
 		</data>
 		<key>Headers/ALSdkConfiguration.h</key>
 		<data>
-		/afjnutfNTpcmzrekJ0UXiXffkI=
+		le5wo5gj/WRv+w4hwlyvNTDtvUM=
+		</data>
+		<key>Headers/ALSdkInitializationConfiguration.h</key>
+		<data>
+		/WYKRMbJ6NF4F4ae1PbgohRGqMk=
 		</data>
 		<key>Headers/ALSdkSettings.h</key>
 		<data>
-		1bkVjpMZQfQQoEMzbr6FmAD7dT0=
+		1YMT2zxNg+TqavfemCRDrvnEHVA=
 		</data>
 		<key>Headers/ALTargetingData.h</key>
 		<data>
-		dAGGT9DZsRnp5ORGCEDSRpJI6Dk=
+		ALmkpH2VgxKjpfk8BfhTKkPff24=
+		</data>
+		<key>Headers/ALTermsAndPrivacyPolicyFlowSettings.h</key>
+		<data>
+		EwSWMs21tKa6D/TEYCfEattnHpE=
 		</data>
 		<key>Headers/ALUserSegment.h</key>
 		<data>
-		IC88oXLZqMm53B86/eS4zUP051M=
+		iM6rx0FK85C3Lhw3Wvmdyb5wP5A=
 		</data>
 		<key>Headers/ALUtils.h</key>
 		<data>
-		fi4H4yKbkzhcPYUwFB6A+CiWDfo=
+		u3t+ycoATnBWYOOD8ZcLSlyD9hg=
 		</data>
 		<key>Headers/AppLovinSDK-Swift.h</key>
 		<data>
-		X3wSCgUNl814NhmRQC1lMqgL0QE=
+		NUF9BVSLGixwY1S+d9LHysmE46c=
 		</data>
 		<key>Headers/AppLovinSDK.h</key>
 		<data>
-		RAfYEp6mudouw6aWTNXxA6SaHfY=
+		zXnrgbCFICX+C9A7Y9O8d2uAoig=
 		</data>
 		<key>Headers/MAAd.h</key>
 		<data>
@@ -170,7 +387,7 @@
 		</data>
 		<key>Headers/MAAdFormat.h</key>
 		<data>
-		5rGwDUox0evvqoc3CKclrfRxWaU=
+		BcFop4/8aOpy6QgPd2+t6C2CyyU=
 		</data>
 		<key>Headers/MAAdPlacer.h</key>
 		<data>
@@ -266,7 +483,7 @@
 		</data>
 		<key>Headers/MAErrorCode.h</key>
 		<data>
-		J1FWDXYrASXqUfLIWDtBF8ppTj8=
+		ZRfdVlQWxnuNV74+Wxk16Kh0LCM=
 		</data>
 		<key>Headers/MAErrorCodes.h</key>
 		<data>
@@ -330,7 +547,7 @@
 		</data>
 		<key>Headers/MARewardedAdDelegate.h</key>
 		<data>
-		daH2ZpRQ6GnGUTgXM4z+wdFh7i0=
+		w4t+ZfV5iXeo+EGxKZZSEczPTuM=
 		</data>
 		<key>Headers/MARewardedAdapter.h</key>
 		<data>
@@ -338,7 +555,7 @@
 		</data>
 		<key>Headers/MARewardedAdapterDelegate.h</key>
 		<data>
-		17s35346EcYv5exdKl0LkZcaaWY=
+		FBgQdpT/RobCtCC6UX73UbyUQQA=
 		</data>
 		<key>Headers/MARewardedInterstitialAd.h</key>
 		<data>
@@ -350,7 +567,7 @@
 		</data>
 		<key>Headers/MARewardedInterstitialAdapterDelegate.h</key>
 		<data>
-		D9TUy3fR7H9RCbaN+hsMKplb8jg=
+		2gVQzadvnm9a/tULCV2IwHQuImg=
 		</data>
 		<key>Headers/MASignalCollectionDelegate.h</key>
 		<data>
@@ -382,61 +599,359 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		59OI109fvp8TWF6RGlZ6S3z6y1w=
+		VKiqQnhBKZ3j2X4wn7zs+v5a+AI=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		lhSirtwbv8Uwn7x2ppL+NeIOLYE=
+		BlhvoGoW2nuwxL9etntpQivGXOw=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		IHy3UGtupBdwBXYg1eonPyZ+QyA=
+		ZSWiA55O8fELQZOw1B2AfOk23VE=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		eiyJnhYxdDLtf8dP9EP5DvGhqRA=
+		hfnaIMMyjAWF4LfP9kF8sQGQQxA=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		IHy3UGtupBdwBXYg1eonPyZ+QyA=
+		ZSWiA55O8fELQZOw1B2AfOk23VE=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/hiuoiRroLPo6Yc92oJmFQAyVes=
+		h6+vKEdXdlFW+OAcj5By7+JVXe8=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		lhSirtwbv8Uwn7x2ppL+NeIOLYE=
+		BlhvoGoW2nuwxL9etntpQivGXOw=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		qb/+6Op8+ZR3CrjRbWkdfvHywZY=
+		eR2xl5T5lfx0yKzaOM5fXEPvQGc=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		AWueE4hgQgW2wPP1vFYWg+diNI8=
+		839VOa40OyRI04A8jFrsKGcg+b0=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qb/+6Op8+ZR3CrjRbWkdfvHywZY=
+		eR2xl5T5lfx0yKzaOM5fXEPvQGc=
 		</data>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hS7YU7zP404CsuZ5+aujXjG7I9Q=
+		4MLP8Aro2Bgru0wfgC2vaW0lOsU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		20B6EREOhGv1fUEDMsDWmmaYWfw=
 		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		jR5kks/wyXPVXeOvTLbLYPKn2g0=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowATT.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I8MC8PiNfLd6AniG/Eh/oN+UTAXcJtpbvta9wCZsxdo=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowPrivacyPolicy.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LlaOA+a1j/MsNy6vusWOguLrCvK1PAEGAI5QrR2ZeUM=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowPrivacyPolicyAndATT.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5+zqoKOk6gCeRTyqiyfRcI7V0dMF7qzXgE92rlqBUhY=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowTermsOfServiceAndPrivacyPolicy.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OsR3ZQjKEcpx6udatYTaipCgK/X8gGqenR0EQE+pzIw=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowTermsOfServiceAndPrivacyPolicyAndATT.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KYvnbTHl9K8RsJQY3kxmuOT5HWME+C3Xpra9hypMYfU=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALConsentFlowUnifiedCMP.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MAubWAHFLBEYGMvyipzwZAuZt/SFoln0bAupnAD3OWw=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALDDetailTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/EVChlPRWKjxfidIl9fzkKchDQR4aM32ItYgVoFh+/0=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALDMultiAdViewController.storyboardc/3jf-B1-XNL-view-Iqa-CO-DFs.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i/xncX/qwDYlEm1bKfIuQmJ7rHdsABZ5wVaMBcxtHIM=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALDMultiAdViewController.storyboardc/ALDMultiAdViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D5JyDD9lMoo0k4f5RMLH4evZS19nW5bwb6/EHv345QQ=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALDMultiAdViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rkcLG/PDdYWwCEmB6Nq/+enWbY+G4PCOQyMEkOP6KA4=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ALDRightDetailTableViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7YB/bsKG4F6uX4tFdcPNd9fySYlm3PrUD94v+mtdhDQ=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zjUTk7uO085wGMJpYlIPqGAeZuaLPBw3e4eCk80BBSc=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/Base.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z8ITLLftSgpbuRES/hELT2qso0qJnZPP/IwSB+xepnY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qg8EbDpygHAuyEap4U8PlrSiWPoThZL7z1w1H044Ino=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MAHybridNativeAdView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zUF32N+bD2EFU0zlDYGGKapPU/6hdVV0RuNyD5FYthQ=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdBannerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tl40iZ+gr5SSfJJjyjZ8vIUIjg/f+ktG7DETNL/9Q90=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdLeaderView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GDub5EvXqMBUEFPQ7Uc2SaZJvorKjkE2egjcKDJtATM=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdMRecView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vXrtRZ54Xm8zbugCXm/X0Y06baI4A4zH7qlPP4pzaz4=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdMediaBannerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5as5tn265qeA8rm0pCgrn/LZoJpb/o/xhEmCk1ozH7I=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdMediumTemplate1.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OJ+RQWr2V+mfqe2CDPIsysgLxic/qCDIlOyf0ZVUXSI=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdSmallTemplate1.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			orSAEKNkPyklTYnt+XruYp6/o8LM0Y5hzmQwem9/azY=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdVerticalBannerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CrdSvA0VRiq+S60kSX+ul6PYOQmmncVWv5JBJ3scHAM=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdVerticalLeaderView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PncOt36cfdnk/hiJtD4V2n9pO9gmA+Aqz6nPeSGdXWI=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/MANativeAdVerticalMediaBannerView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gyn0OWDTtypL9j49DgJuDsJpRfMj2+J/udh1pdlKfDY=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/OMLICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YeXJiTAU447VjJbPUiB4yoLGGli+nQlwWl1J5cZT9+I=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1HL+fTN42a3kdiFcQ3ccwPJY6YwkBov2GgLR8JVoblY=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JHZsztRrTqsZ+/GDegCrr6udxTJ5NVZFrmSPtiMVSwY=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sxBJpgzFqaKycbgE+vTq7t3RQoUTzBcfnXO9vQ3wwnA=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q7DF4q+ybW1RG3Dt0vXBU51stk4yMWw1CwPDLHzQ3vY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z8ITLLftSgpbuRES/hELT2qso0qJnZPP/IwSB+xepnY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5Flxn1RDNNY9K8n94H2Arw4hpvDyWjeUst4ogy6OaO0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ygKi1mBC+D8Tz2AelBIheQ0gIXEg8VJz61Bg00Yw5KY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gyRb43WpJIbzYPifWcQ5USW42H3WbU0izJEwsOJKnBU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			umtilSrgw0YG3Tw8EYLcwrNsa5gWJXGO6RdxUS0O02I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/mute.aiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WUTtOynoFPERt7tbMpqwDPv3YX9EfZjQDLz1X3hRVww=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/omsdk-v1.4.12.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iWz5BbK1YoGNpY4Z4ltSUIPxhjj2ubDXxq6kEamQdYU=
+			</data>
+		</dict>
+		<key>AppLovinSDKResources.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NSLXnZpRgGv4o+wwveW/Xf+RV1mBebHIT8Be6Sh7LU0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>AppLovinSDKResources.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RLMKQwwVnkKqjDHsmSFDugq6aF2Fk8GONR12ATDMky4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Headers/ALAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8pEoTqP3JSyx/PifZtsZr9etU0Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			2L9PWIiVtTQWn6FIJTpIGeHHtY47SdOJTlYI9D4esfQ=
@@ -444,10 +959,6 @@
 		</dict>
 		<key>Headers/ALAdDisplayDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WZzl+5yAhuKAsLDqj8RMejrxKOY=
-			</data>
 			<key>hash2</key>
 			<data>
 			DL8+t8pdSu4Zq5mCWclqJhbi1ve0TpxXGzPS898JeYI=
@@ -455,10 +966,6 @@
 		</dict>
 		<key>Headers/ALAdLoadDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wl9iPnp57uX4t2kwn1cOIQlqqBQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			qzMMuU50vpG9A1AMi/mTUCpREtTdx1icwKSsKYEYNlI=
@@ -466,10 +973,6 @@
 		</dict>
 		<key>Headers/ALAdRewardDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kCjoPJ8NMlg9XObIv633JxrcK2w=
-			</data>
 			<key>hash2</key>
 			<data>
 			SYFkkQnuqNefpLZNg9N/pSXyG5um91OskiPOUHkzeGs=
@@ -477,32 +980,20 @@
 		</dict>
 		<key>Headers/ALAdService.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JbVarfZnDq3HanLDbu4YBUF4PfY=
-			</data>
 			<key>hash2</key>
 			<data>
-			gn7ZWCH2yAs238CKQ5Cm23ngGVdBeQCRHtDmkr0WjHM=
+			ychv9+tZMVmu0qVLu1rQlQlmareuXyKoNdoG+rZ3y6o=
 			</data>
 		</dict>
 		<key>Headers/ALAdSize.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FPq4FvpNe+a2Q1nlx8bTQVYCJlM=
-			</data>
 			<key>hash2</key>
 			<data>
-			f/kpO9PASEG1t1nOWBLOmPRGEBPhjZgx5KG5du9WLfY=
+			xSXIMEzf6n+ecxoEsRwibkSDjb2ihkG9iRQomrBYmZ0=
 			</data>
 		</dict>
 		<key>Headers/ALAdType.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0uLHDaYG2W2rrREc4PTjjbZkph0=
-			</data>
 			<key>hash2</key>
 			<data>
 			YoP4O4273gN3gwQILXaU9sfEJBH7TWrL5/RDGlPbFB8=
@@ -510,10 +1001,6 @@
 		</dict>
 		<key>Headers/ALAdVideoPlaybackDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8EudQZraGAJWl54uaOeth2iFY9Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			Tv2UPNrnpMeR1n5tWp5o/elxi6IVyBh/pi16caja/uU=
@@ -521,21 +1008,13 @@
 		</dict>
 		<key>Headers/ALAdView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1IxKLlZjgTGC9JfJaD87LES6qM4=
-			</data>
 			<key>hash2</key>
 			<data>
-			7jrvHHV0qSWrFXr8KV46NSjQ7djVuZi21gndSGsRIKA=
+			GrlqvqlhgMBTKVyoj04qMhIGSQSRTUYg1tB7Wbrhk/8=
 			</data>
 		</dict>
 		<key>Headers/ALAdViewEventDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5NprJEjEcDcjdzXiPNFx8nC5hgg=
-			</data>
 			<key>hash2</key>
 			<data>
 			kq2naQvtj41gnf23iGc6riKwpkRQYaH5Zc4J3b0AqHs=
@@ -543,21 +1022,20 @@
 		</dict>
 		<key>Headers/ALAtomicBoolean.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HuZTv0v7ubV4kly5mqH06yYccFs=
-			</data>
 			<key>hash2</key>
 			<data>
 			0oFWILrsubMwX5UqMIJGm24Raj0JmKSKuKTdmtg8JFY=
 			</data>
 		</dict>
+		<key>Headers/ALAtomicReference.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OlILsw9nhcs15qtNUbBXYn79DMh+MswmZs9pyvT2KPk=
+			</data>
+		</dict>
 		<key>Headers/ALCCommunicator.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qBe9UHdIQ2+XHhIrfGsgzKNX2b0=
-			</data>
 			<key>hash2</key>
 			<data>
 			gmpbRa/ONBGGuzBpQTnV8uimW5TVqUmCrvTp6djsFpA=
@@ -565,10 +1043,6 @@
 		</dict>
 		<key>Headers/ALCEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nPoiF7OhVSHAdFWjHgJO5xUiHxg=
-			</data>
 			<key>hash2</key>
 			<data>
 			d72nbJGVjD1YdfTQBVvRjN0KTv06CMY7gc+KdjxefZc=
@@ -576,10 +1050,6 @@
 		</dict>
 		<key>Headers/ALCMPError.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			g6gWgm4r+GIoSQI2ThKg5ROtDA4=
-			</data>
 			<key>hash2</key>
 			<data>
 			aOKqpH2Y4PoYUXSI4QBV3MM8sfpjWslLbq7swQUCyPw=
@@ -587,10 +1057,6 @@
 		</dict>
 		<key>Headers/ALCMPService.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kwMTpjbW+uZCglWMe8kPUOcz0Zs=
-			</data>
 			<key>hash2</key>
 			<data>
 			NhkaVZ/dFThcnSWsfll2rb0f2n9d68NwpRq7z4HmiSk=
@@ -598,10 +1064,6 @@
 		</dict>
 		<key>Headers/ALCMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+xBE1FMgyKTuz3efSMKDVqH/sK8=
-			</data>
 			<key>hash2</key>
 			<data>
 			rxpDbbZPWvHFM1iEG6mkjtJoVfBAZF4MEJD6NOU6gWk=
@@ -609,10 +1071,6 @@
 		</dict>
 		<key>Headers/ALCMessagingService.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			S4p4mffM8S273410GeQhAMpjGjU=
-			</data>
 			<key>hash2</key>
 			<data>
 			+3/Mu2D6/BsaTY/ImJjMgMyj7qZDqUcafsvyUruIxQo=
@@ -620,10 +1078,6 @@
 		</dict>
 		<key>Headers/ALCPublisher.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GChM3K33zpeyn19e78vB84eeds4=
-			</data>
 			<key>hash2</key>
 			<data>
 			cjq4tYrUbFOxoHoQRx93U5bPA24z8mOhQ2GqO0a4f7k=
@@ -631,10 +1085,6 @@
 		</dict>
 		<key>Headers/ALCSubscriber.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n1Ww1NUppkO8vvOw+SWhW33ILGI=
-			</data>
 			<key>hash2</key>
 			<data>
 			h+XCR3P53+em0ulDy3kG21IZ+qouVQf3IynxiopbLWo=
@@ -642,21 +1092,13 @@
 		</dict>
 		<key>Headers/ALErrorCodes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			l+Hdmt0vgwlJcwuwb5A00qJvzYc=
-			</data>
 			<key>hash2</key>
 			<data>
-			3iyM1w2c1MBOQrRiun+FFhnJxKaguc+8KIswKY7L90s=
+			rsQzVvJMbbAaCt8O7mDiGEV5veguxxKyOafTR3/+cMY=
 			</data>
 		</dict>
 		<key>Headers/ALEventService.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ix3uhkTn2Rz8at9Jsb+Gv36utjc=
-			</data>
 			<key>hash2</key>
 			<data>
 			zII+eztXrpsKVPHhyZTEXB4lA42N79ypu7ovXzEoTbw=
@@ -664,10 +1106,6 @@
 		</dict>
 		<key>Headers/ALEventTypes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+cKbmJf55NE+EL8iR5O27u30Mbg=
-			</data>
 			<key>hash2</key>
 			<data>
 			6fCpeqRpD/3nxqS7K0I1Ad7U8R7KQBaK7gCKBgM3kL4=
@@ -675,10 +1113,6 @@
 		</dict>
 		<key>Headers/ALIncentivizedInterstitialAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lW0RxgRckA3V2P8KDrEPeISl/n4=
-			</data>
 			<key>hash2</key>
 			<data>
 			MO5L+fhBOieLqi0j6lAOtqSNiDgIUddXpxPwrB7k2Bo=
@@ -686,10 +1120,6 @@
 		</dict>
 		<key>Headers/ALInterstitialAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3d6N6kY+zNWeZ/gLm9TyNpkpViM=
-			</data>
 			<key>hash2</key>
 			<data>
 			c8hC2u8BQAtYNCqqalUn76t9DaF7Vywtz30pMVsxYJo=
@@ -697,10 +1127,6 @@
 		</dict>
 		<key>Headers/ALMacros.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UROPnTBoHt3jikHLbIz5OwSmRXU=
-			</data>
 			<key>hash2</key>
 			<data>
 			9m5MJjC0KGUnGhDyJCTW5y4TKp7hVu3bBaSlR3Je44E=
@@ -708,10 +1134,6 @@
 		</dict>
 		<key>Headers/ALMediationAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VwLYDzialHY0eyAlR3M8/Zlbuv4=
-			</data>
 			<key>hash2</key>
 			<data>
 			4yf0vUmxw+jwJrJqTm/3jfLuDbl32KzmfO8VYGh4BTw=
@@ -719,21 +1141,13 @@
 		</dict>
 		<key>Headers/ALMediationAdapterRouter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iHqwfZVKRvTOEMYtr+6NNr67Jzc=
-			</data>
 			<key>hash2</key>
 			<data>
-			agtLZAwxtLuzMeOsgVJitrzFkAqSJqhn7HYrCqVnCDU=
+			hnNFkjBxLLlhYIV88xhwiqOR2jp6j3lZVWACDkRNZxg=
 			</data>
 		</dict>
 		<key>Headers/ALMediationProvider.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YNy4ZYe3GKUAHzHjFaTnqIc8hqw=
-			</data>
 			<key>hash2</key>
 			<data>
 			gG7kj1QjEygrcDC0uxuce2hgp2rW08/iZrEoYuoXqwo=
@@ -741,10 +1155,6 @@
 		</dict>
 		<key>Headers/ALPostbackDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9UioMv61yI38gPRSDuwPNhIacaw=
-			</data>
 			<key>hash2</key>
 			<data>
 			7a2gianJYTa7S+NPjd3qIiHMRH+p9zE9Hx1nKScjWkA=
@@ -752,109 +1162,83 @@
 		</dict>
 		<key>Headers/ALPrivacySettings.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GtvUV3iJX3Ehm+9laRM+6udhmBE=
-			</data>
 			<key>hash2</key>
 			<data>
-			wMjJjW1mMa5vg77aBT5bzPuskP5m481w4QyUhrzrLok=
+			pooD7JKkptgF8H47zoxsgpFJQBAPGYPr0NyF6zSr0sA=
 			</data>
 		</dict>
 		<key>Headers/ALSdk.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MHvleyQGj14DqEzWppKcVDO5XZQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			rK3itqYx4edMDSrA52qFAbTdJ/dZaoOLOuz5GGR/Z00=
+			VXICY/yK4kIPmrCZ5aKNOVkv1hNlRaK/jFZyoEeA8P4=
 			</data>
 		</dict>
 		<key>Headers/ALSdkConfiguration.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/afjnutfNTpcmzrekJ0UXiXffkI=
-			</data>
 			<key>hash2</key>
 			<data>
-			MP7jGtX5XIPVkpwEGL3LCvsq7amXZNSvS5YeMEvhrAA=
+			VaEgidO0D7dOte32zC/54pVCOZAZy/c6KhMjHJvH3Ss=
+			</data>
+		</dict>
+		<key>Headers/ALSdkInitializationConfiguration.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gs2Acz3opJ7rKtydm29YB0P62Arw9hwarLK/0BF7t0Y=
 			</data>
 		</dict>
 		<key>Headers/ALSdkSettings.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1bkVjpMZQfQQoEMzbr6FmAD7dT0=
-			</data>
 			<key>hash2</key>
 			<data>
-			kRJqMgT0bJ1s+MJmU6cWpXzz+oueWvcW5f7mVYLcWMo=
+			FLVByJPC/SOLC1fXKpI9exBprIgkJwJyfVDkPglAyPQ=
 			</data>
 		</dict>
 		<key>Headers/ALTargetingData.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dAGGT9DZsRnp5ORGCEDSRpJI6Dk=
-			</data>
 			<key>hash2</key>
 			<data>
-			vY1IAeCY+6wkNs9NOracPOm8WuwXD4dzQ6BqgYw+R6Y=
+			iOxelCqh4FNgHgh40dXFrWSS+ONaLD4FmKBjg8DD9mM=
+			</data>
+		</dict>
+		<key>Headers/ALTermsAndPrivacyPolicyFlowSettings.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HtwFwuaHn1CKoA7ADhvg5VPqkpqtEn4HAXN0MsytX2E=
 			</data>
 		</dict>
 		<key>Headers/ALUserSegment.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IC88oXLZqMm53B86/eS4zUP051M=
-			</data>
 			<key>hash2</key>
 			<data>
-			o+FSL5eW3jJwL53iu1azWg8xv8QX1KOmZYzm2NG5Gc4=
+			gfvZZGzcTIN/G7BGCFl/pmUwKiIKXgE8sg93gIXZ61E=
 			</data>
 		</dict>
 		<key>Headers/ALUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fi4H4yKbkzhcPYUwFB6A+CiWDfo=
-			</data>
 			<key>hash2</key>
 			<data>
-			zcCuV93jwabYjKaqhVuxGv0p6XQmTNeCLMByyROoufM=
+			X7/uqCDWTG/jIvl52h19VYFjcjO3JsAmseJPFXqP2uQ=
 			</data>
 		</dict>
 		<key>Headers/AppLovinSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			X3wSCgUNl814NhmRQC1lMqgL0QE=
-			</data>
 			<key>hash2</key>
 			<data>
-			WckM1xoT8tbWMQ+YLkXr74FGPk2+SQYZ+YP98xnguEM=
+			xq3QPnFcsmi+PJ1KBeY7ujIvALgDo3Kzry1R0204zYM=
 			</data>
 		</dict>
 		<key>Headers/AppLovinSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RAfYEp6mudouw6aWTNXxA6SaHfY=
-			</data>
 			<key>hash2</key>
 			<data>
-			E95tymdvWg++vd4pOpnVkBlpOUqGbQ2BKWMxKLYQP58=
+			QzRvJNWPo4sKDwsNlaKj77+bnTqC3y51XymLGO3oMWs=
 			</data>
 		</dict>
 		<key>Headers/MAAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5xSvoQ//vDnX0gzIDTOyEQ9gplM=
-			</data>
 			<key>hash2</key>
 			<data>
 			7yvi1KqRgF26GSgAT7kkqyec4DUz63qWYUMTOBLzTYw=
@@ -862,10 +1246,6 @@
 		</dict>
 		<key>Headers/MAAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cEBJtCQ4JRFGiSM+Ft/nfuceZno=
-			</data>
 			<key>hash2</key>
 			<data>
 			+9OPcEvmnVFAglS7pU90yWH27f+tZRHnP8e1Ng2qrpg=
@@ -873,10 +1253,6 @@
 		</dict>
 		<key>Headers/MAAdExpirationDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sXELj9VdinguTNZteC4hkOxeuSc=
-			</data>
 			<key>hash2</key>
 			<data>
 			5aJj5PMdrEj19lzI1HoJDzx2teJW7TuEu9gsTRm3Xi8=
@@ -884,21 +1260,13 @@
 		</dict>
 		<key>Headers/MAAdFormat.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5rGwDUox0evvqoc3CKclrfRxWaU=
-			</data>
 			<key>hash2</key>
 			<data>
-			GtEGvfDNq+X5ZRHgERhB7ZIy+d/aDmrKl/8g/mQbPRo=
+			fM9uG6QadFvRyd59Muu4LL2EC20cwnjWQHBNvDcrrkk=
 			</data>
 		</dict>
 		<key>Headers/MAAdPlacer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mIFmJJvCjpnEOjC+2VRXNl6uhZw=
-			</data>
 			<key>hash2</key>
 			<data>
 			BwGIPAqSbp/n+bxpNfJOlvRWckVRRe+TA2EzULvUI0U=
@@ -906,10 +1274,6 @@
 		</dict>
 		<key>Headers/MAAdPlacerSettings.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v1jcm/5d7yrgS2K8cGDzF/fbe/k=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jmf0lA33VCTxOlENnfEInYqGGZRiBWqj5B2W1GqQolw=
@@ -917,10 +1281,6 @@
 		</dict>
 		<key>Headers/MAAdRequestDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EbXVBko6RmJ4On/Z1p2/Ml6+6DU=
-			</data>
 			<key>hash2</key>
 			<data>
 			CjJPAZTkl3I7TMQlLjU7yw3S2F3OJ7o4y61rd/3Diss=
@@ -928,10 +1288,6 @@
 		</dict>
 		<key>Headers/MAAdRevenueDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3cgP8gTdpi4I9j3RR0485xG7Ql8=
-			</data>
 			<key>hash2</key>
 			<data>
 			KA5NZkaolnGug1REGmoF4fDgh2cx17p7FcJfF7+mCh4=
@@ -939,10 +1295,6 @@
 		</dict>
 		<key>Headers/MAAdReviewDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QQ0TtzhAYZm9eJi33ywDBfC+oLE=
-			</data>
 			<key>hash2</key>
 			<data>
 			r4psYvSddbHRcRiB7yxZCSZbhzZEffT9QgSHpUYB56I=
@@ -950,10 +1302,6 @@
 		</dict>
 		<key>Headers/MAAdView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Vndxkel7BveKtQqQZUmhwTUncgA=
-			</data>
 			<key>hash2</key>
 			<data>
 			vWvDyHt1Pjje0S/emK7DwfL6MD68VFX3h8sckBQWsmM=
@@ -961,10 +1309,6 @@
 		</dict>
 		<key>Headers/MAAdViewAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dMLKqRbBVM04rIsvpyQaZQYppf8=
-			</data>
 			<key>hash2</key>
 			<data>
 			TeTjPPLFOan+IKUE8KuuaP/aL1+CaekwnhLdLwxMSZ0=
@@ -972,10 +1316,6 @@
 		</dict>
 		<key>Headers/MAAdViewAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XQkf6RMeJEtkFngph9YGg/YtZJk=
-			</data>
 			<key>hash2</key>
 			<data>
 			+6BxbzdSakr7WgAUc6jGiGXm0CCOPcbZPEWRZeB2j/k=
@@ -983,10 +1323,6 @@
 		</dict>
 		<key>Headers/MAAdViewAdapterDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qmhu8q7OHhWaqw3miDpAtIlxDNQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			85gFB6WprqXnFMOKIzJEaCNnumPgP8+Gqb7F6b0bx/k=
@@ -994,10 +1330,6 @@
 		</dict>
 		<key>Headers/MAAdWaterfallInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m10PuziIiNi8cy0wMPn4fqGhorM=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZDcDWZivft5qeG3qtQvqpIeHFCFZKcqNMneN31fCOeM=
@@ -1005,10 +1337,6 @@
 		</dict>
 		<key>Headers/MAAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			agDVNHdFpq08fAz4i21grn68P7E=
-			</data>
 			<key>hash2</key>
 			<data>
 			9vI3ZKda2XvKFoWnhz5Z/Wu9liOaY/H4ehNRoKRAY6A=
@@ -1016,10 +1344,6 @@
 		</dict>
 		<key>Headers/MAAdapterDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HIN188LLAVfjvdi5AxxpnkwQwvo=
-			</data>
 			<key>hash2</key>
 			<data>
 			5kJGU5Xi4oe3X2LZLmmVVGuKYKFxnHVeeiAPjLvCu+E=
@@ -1027,10 +1351,6 @@
 		</dict>
 		<key>Headers/MAAdapterError.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8lJeUsjWVYNXpOpueJqg9Bk96PY=
-			</data>
 			<key>hash2</key>
 			<data>
 			zhvNbe98UGoecQmAPOJURxcdEd2n1ISSDWEI59GSnfE=
@@ -1038,10 +1358,6 @@
 		</dict>
 		<key>Headers/MAAdapterInitializationParameters.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XqUSifftz4+A9ZmUIs5oHp1hqXA=
-			</data>
 			<key>hash2</key>
 			<data>
 			uP94zPC213c1OlJAqWqocPgc55/zCNos/N7HpiTFWiY=
@@ -1049,10 +1365,6 @@
 		</dict>
 		<key>Headers/MAAdapterParameters.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GqChq1prhzTSyVcdCqsKSt1NNEA=
-			</data>
 			<key>hash2</key>
 			<data>
 			/l/AxMEiH51HpNTrp7ppHKwpAK2fEMKKpQjDE4j08vI=
@@ -1060,10 +1372,6 @@
 		</dict>
 		<key>Headers/MAAdapterResponseParameters.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K3K5/DYwRU28s4oIpuS+mhcLl+8=
-			</data>
 			<key>hash2</key>
 			<data>
 			9WpqTYoDY7/yjPC0Iw1xVG+g/+nOWmbZEUyJcA7uw2g=
@@ -1071,10 +1379,6 @@
 		</dict>
 		<key>Headers/MAAppOpenAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f9zG0d6XAW5BTL8MfnyFU2PRxZo=
-			</data>
 			<key>hash2</key>
 			<data>
 			BHx+S9/NuQzeYwF/OvqNqej/nQjEZAvS0LBZBj045HY=
@@ -1082,10 +1386,6 @@
 		</dict>
 		<key>Headers/MAAppOpenAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9J0nBRWiqgmYgBWtrURuvXzcK4M=
-			</data>
 			<key>hash2</key>
 			<data>
 			tU1GPpdoRRXG9arMci7qT7LsY3ubrkv1kLpvGzngbOU=
@@ -1093,10 +1393,6 @@
 		</dict>
 		<key>Headers/MAAppOpenAdapterDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gYvVVE7/nrBOVllkxPDdN84O7Dc=
-			</data>
 			<key>hash2</key>
 			<data>
 			jsPMJyTxrwa+MpHW817G59U/+PhnonWpt8XF07RgxR8=
@@ -1104,10 +1400,6 @@
 		</dict>
 		<key>Headers/MACollectionViewAdPlacer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mOCRH9bBetT2brlvTPqfyhkHwBU=
-			</data>
 			<key>hash2</key>
 			<data>
 			XT8HzoJI60nPcbbMrSyfcCkbu9XyHVWLlx5KkBTbZZw=
@@ -1115,10 +1407,6 @@
 		</dict>
 		<key>Headers/MACollectionViewAdPlacerCell.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1BDHjfIErS7oCizkYVrZcoKXUF0=
-			</data>
 			<key>hash2</key>
 			<data>
 			dcBF/lOKwH50O7614xW3Mz0pXmPtjw/moAi6ippD6L8=
@@ -1126,10 +1414,6 @@
 		</dict>
 		<key>Headers/MACustomAdPlacer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mum6lIDYf9bglrWo3vj1ldHBt0A=
-			</data>
 			<key>hash2</key>
 			<data>
 			f3sk5zreDl9FfDi4+6QL5sxNS0cWjDdluSuupD7xz1U=
@@ -1137,10 +1421,6 @@
 		</dict>
 		<key>Headers/MAError.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7EYZbyvkoFaHf8Wg12+o9NmpcLE=
-			</data>
 			<key>hash2</key>
 			<data>
 			2vOo/siyFzDEurQojpizqfln3BAfhM5o/tQKZySISn8=
@@ -1148,21 +1428,13 @@
 		</dict>
 		<key>Headers/MAErrorCode.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			J1FWDXYrASXqUfLIWDtBF8ppTj8=
-			</data>
 			<key>hash2</key>
 			<data>
-			GVlzvmTSrZRJ5FxqEktbQmFD8NbJKLwX1OVlJ08+6yE=
+			vL6EVx4kJhL+N6/i7nlYtfH8lkv8ujS/zahYNuSmNRc=
 			</data>
 		</dict>
 		<key>Headers/MAErrorCodes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GRa+SjQl+lW6P8io1IxF7+kHXJA=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZMHGHLNjS2F7N8veJROjwEEZJJUmNgqr4n9vn1XiOUg=
@@ -1170,10 +1442,6 @@
 		</dict>
 		<key>Headers/MAInterstitialAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			p+sYkIpntQ0v6wUcReVq76FVpvU=
-			</data>
 			<key>hash2</key>
 			<data>
 			oHRjDjp/lsMvb3pd5EEU9B05oGlfTAzj2EaLev/JUKo=
@@ -1181,10 +1449,6 @@
 		</dict>
 		<key>Headers/MAInterstitialAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QBLQGaX73tLY8DRL3UGBzloQ/gI=
-			</data>
 			<key>hash2</key>
 			<data>
 			719GyFybiXVs3niekJEr28mI78D7ovcIaHRc/t+TCxM=
@@ -1192,10 +1456,6 @@
 		</dict>
 		<key>Headers/MAInterstitialAdapterDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5OT6ChR6/2excPmwPAkj2H9BMSs=
-			</data>
 			<key>hash2</key>
 			<data>
 			zoqByiqQosjeuw5TboCzIdPN3BXKuANinTVqj/03zwI=
@@ -1203,10 +1463,6 @@
 		</dict>
 		<key>Headers/MAMediatedNetworkInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rBouk7Tmn2Dv4IINinIt8BerBnY=
-			</data>
 			<key>hash2</key>
 			<data>
 			AKAH88Geb6+L+UVAoqejYSjAyA5YEDKvkm2UdsMkKNA=
@@ -1214,10 +1470,6 @@
 		</dict>
 		<key>Headers/MANativeAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vcPLlo+kKJM/FahwG7dZhOcHwSI=
-			</data>
 			<key>hash2</key>
 			<data>
 			aOXb1dAeb4zQ2LmbQmUXFlMhj5ryjeYdaRYq8xXchxQ=
@@ -1225,10 +1477,6 @@
 		</dict>
 		<key>Headers/MANativeAdAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WCxtiLsxDFeA9JXsp/0TqzgVQZg=
-			</data>
 			<key>hash2</key>
 			<data>
 			x1guUepMEzSxqKMSeJ8oMFIEUYl7nL7+X73AR8w9qPo=
@@ -1236,10 +1484,6 @@
 		</dict>
 		<key>Headers/MANativeAdAdapterDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D+YqzFtg/bI8xulmy9Z53qCFeyQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			edK5Vip4ouqBwn3N5B6UipmYOY1yTysO4FUGKFokJpc=
@@ -1247,10 +1491,6 @@
 		</dict>
 		<key>Headers/MANativeAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2/u+hzlQ/LbZCyONTzEmgIeJaXA=
-			</data>
 			<key>hash2</key>
 			<data>
 			6jVM4zfOq4pQgv5xWDnp4MY5+4UBMnaCRYy3lw36/lQ=
@@ -1258,10 +1498,6 @@
 		</dict>
 		<key>Headers/MANativeAdLoader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JgkB2WgZ1lqv101UJezkJYUyr+k=
-			</data>
 			<key>hash2</key>
 			<data>
 			Vl1bICtniFVdfadDXHUkznqfcL0dxdxOj8wVggWAFr0=
@@ -1269,10 +1505,6 @@
 		</dict>
 		<key>Headers/MANativeAdView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IWAuhRBXhU3MeQGUTtXjaVnx+1M=
-			</data>
 			<key>hash2</key>
 			<data>
 			Zx7/e92FVjYyW3ii/a0lkn92k5+ow9J/EgOwKaMVB2g=
@@ -1280,10 +1512,6 @@
 		</dict>
 		<key>Headers/MANativeAdViewBinder.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0emGbnNJy621nCCE3VyqkXFhDO0=
-			</data>
 			<key>hash2</key>
 			<data>
 			ETml5JoUyBgSwazQAH0tGOFNbt3S07a0FYUB21q0ERY=
@@ -1291,10 +1519,6 @@
 		</dict>
 		<key>Headers/MANetworkResponseInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Tti7FH2Jz4qLYtG8FxyPbn3513M=
-			</data>
 			<key>hash2</key>
 			<data>
 			m+9pvwfzMMMxHONxd6V9512znBkCcqDBla5ypSKjT/0=
@@ -1302,10 +1526,6 @@
 		</dict>
 		<key>Headers/MAReward.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OFIS7nM2Phniw/oUEk5YNl20guc=
-			</data>
 			<key>hash2</key>
 			<data>
 			smJC5Shr7Go89hVHYn1fTnQNj2LLxPYYj7QVyLcI0FA=
@@ -1313,10 +1533,6 @@
 		</dict>
 		<key>Headers/MARewardedAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1FZmT91p+iL7bS07wZb1tu0OSH8=
-			</data>
 			<key>hash2</key>
 			<data>
 			I2aM4xh9LaMH97LL0lgk1DKAra+Vd3jG3M53b9LgmtY=
@@ -1324,21 +1540,13 @@
 		</dict>
 		<key>Headers/MARewardedAdDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			daH2ZpRQ6GnGUTgXM4z+wdFh7i0=
-			</data>
 			<key>hash2</key>
 			<data>
-			0NziwFCvk7kdk7Kx2D/H8zTnNIiAB6rGfGzfjKxRMxI=
+			fppxY+oqua1KbMK3LUGkmvWkwIYZT97W71IHC1f2224=
 			</data>
 		</dict>
 		<key>Headers/MARewardedAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Q8YH5X+UGikIZJbeDM9UG7c5+sY=
-			</data>
 			<key>hash2</key>
 			<data>
 			qPJdJXQoRuQoXqY9p8vTJt90JuE+nmvUs6zeNiDCf/s=
@@ -1346,21 +1554,13 @@
 		</dict>
 		<key>Headers/MARewardedAdapterDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			17s35346EcYv5exdKl0LkZcaaWY=
-			</data>
 			<key>hash2</key>
 			<data>
-			xdaeU+NY/bzs0Wp3EgxD98gDtOGNY0+yot4FZPDduuE=
+			BuvJjkq8CccNDDzqePgY6z2jjntR7xfdlkz4j4Q3bKI=
 			</data>
 		</dict>
 		<key>Headers/MARewardedInterstitialAd.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QD7s2SSt2d8g5F9618RPIetWRUw=
-			</data>
 			<key>hash2</key>
 			<data>
 			L0bKNGrnnGqO8PWItSbOUwJM8Wx5sd9Zma5QU6lzHxY=
@@ -1368,10 +1568,6 @@
 		</dict>
 		<key>Headers/MARewardedInterstitialAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			F/CgL5OIAyRG3iavP/3LSKaPDXg=
-			</data>
 			<key>hash2</key>
 			<data>
 			aNgkWU9ukh8rw7/g1gOaTQ/h8oLM21+5ft1F8yG1eGY=
@@ -1379,21 +1575,13 @@
 		</dict>
 		<key>Headers/MARewardedInterstitialAdapterDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			D9TUy3fR7H9RCbaN+hsMKplb8jg=
-			</data>
 			<key>hash2</key>
 			<data>
-			txn92hzpI9E8JMbD7yzjEYZgbuqgS+rmh5GvVG4hqZ4=
+			GGRu+ERf2ngNT+nmt/KZc/FgWwq3DGAbi/kZwGmb518=
 			</data>
 		</dict>
 		<key>Headers/MASignalCollectionDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			znszegVcmQLy6Ehe/CjMFwZBKEI=
-			</data>
 			<key>hash2</key>
 			<data>
 			h8T0PcDCiL24XZdcEEdlm2oQQ8s6Y1AZcdk7YYdJB7Y=
@@ -1401,10 +1589,6 @@
 		</dict>
 		<key>Headers/MASignalCollectionParameters.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N8fhX8ILdv/WiYzykgzF5CR9bG8=
-			</data>
 			<key>hash2</key>
 			<data>
 			jDT+R82zms6rWln67fGlnrrkmhccqIwDwjqKIwRym3M=
@@ -1412,10 +1596,6 @@
 		</dict>
 		<key>Headers/MASignalProvider.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lKuyASjGLY4obO2UUlnwlmP50QA=
-			</data>
 			<key>hash2</key>
 			<data>
 			TPk7lVpcU2zOJLXBks5Ry7TQzUICA+8gfups7JVBMrs=
@@ -1423,10 +1603,6 @@
 		</dict>
 		<key>Headers/MATableViewAdPlacer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BtSlKHQK925gfQC9VwU2HmQmzNw=
-			</data>
 			<key>hash2</key>
 			<data>
 			Dxm1tplOiQ7OCevgfNy7dkrHrKdnHyPbJ29SCRaFIg4=
@@ -1434,10 +1610,6 @@
 		</dict>
 		<key>Headers/MATableViewAdPlacerCell.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			skyyITKAzay8wzBGbhH3BUU7AOQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			0Z3bq4ue4uiriHsk91beozslcKBk/EgURMzJ/YHaeSI=
@@ -1445,10 +1617,6 @@
 		</dict>
 		<key>Headers/UICollectionView+MACollectionViewAdPlacer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fzODSrX15J+65FHt50ZDoZ/5bpA=
-			</data>
 			<key>hash2</key>
 			<data>
 			cLYRJ09597huJ8ZA8pjFUN0cXJiwXaf9isLrWW0/Iw4=
@@ -1456,10 +1624,6 @@
 		</dict>
 		<key>Headers/UITableView+MATableViewAdPlacer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HP9179VTQbTlAfYfqm09ou0/J0I=
-			</data>
 			<key>hash2</key>
 			<data>
 			g70BBWdoUacMyfMqb0WcA3p2+VaWylUTp7Vw2jpOcDA=
@@ -1467,123 +1631,86 @@
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lhSirtwbv8Uwn7x2ppL+NeIOLYE=
-			</data>
 			<key>hash2</key>
 			<data>
-			ZjpNe1t5p4Cwnf3z+6Iw+EkaW6V3we3Qd+/Z8Zce/ZM=
+			mZ5SDZqxKPN4MPwnqyYtBtBZOlwf7wP+6hNy8+6DxXg=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IHy3UGtupBdwBXYg1eonPyZ+QyA=
-			</data>
 			<key>hash2</key>
 			<data>
-			pzOZtN99TvrJ0Gk+1z3kHHd4E0VxhN/K6IezzCiT/gM=
+			g7sNw00o+TAu+zwYFLZ6ptzIbQAUdO5mByKpKt+CWSc=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eiyJnhYxdDLtf8dP9EP5DvGhqRA=
-			</data>
 			<key>hash2</key>
 			<data>
-			6yvRVHWla6pEnPQ2qYosrOH8xjoZBfYLaU3HeKKbnMQ=
+			1VOMr9Cmt+S/WRn7iLukw3k8R7X4EcrWSxyHKlKOu8A=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IHy3UGtupBdwBXYg1eonPyZ+QyA=
-			</data>
 			<key>hash2</key>
 			<data>
-			pzOZtN99TvrJ0Gk+1z3kHHd4E0VxhN/K6IezzCiT/gM=
+			g7sNw00o+TAu+zwYFLZ6ptzIbQAUdO5mByKpKt+CWSc=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/hiuoiRroLPo6Yc92oJmFQAyVes=
-			</data>
 			<key>hash2</key>
 			<data>
-			Zhk+QPwzAVI+5ieQ3P2d2f34+vJ/nEulAT5+Ay4rGQ4=
+			gvRnKunc1XdhGrXu98s1LqnuIVvLxG7nC15r5LHG9H8=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lhSirtwbv8Uwn7x2ppL+NeIOLYE=
-			</data>
 			<key>hash2</key>
 			<data>
-			ZjpNe1t5p4Cwnf3z+6Iw+EkaW6V3we3Qd+/Z8Zce/ZM=
+			mZ5SDZqxKPN4MPwnqyYtBtBZOlwf7wP+6hNy8+6DxXg=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qb/+6Op8+ZR3CrjRbWkdfvHywZY=
-			</data>
 			<key>hash2</key>
 			<data>
-			/a11KmIMmWneluJ9wbuU5igO1j+NabKf2kNCejKh6Gg=
+			/mq6mi1q8iz5KHEeCV2VzjpsisAGdBfAPOng4uJGwOg=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AWueE4hgQgW2wPP1vFYWg+diNI8=
-			</data>
 			<key>hash2</key>
 			<data>
-			0stao6MopOnbVbS/XQ9Q7v5ZcjbO2j1Qxm9CdkekQkQ=
+			5ztww8TscN/8Nz3GGh3XA9RGYfcc1BHI/e7sISE6zU4=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qb/+6Op8+ZR3CrjRbWkdfvHywZY=
-			</data>
 			<key>hash2</key>
 			<data>
-			/a11KmIMmWneluJ9wbuU5igO1j+NabKf2kNCejKh6Gg=
+			/mq6mi1q8iz5KHEeCV2VzjpsisAGdBfAPOng4uJGwOg=
 			</data>
 		</dict>
 		<key>Modules/AppLovinSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hS7YU7zP404CsuZ5+aujXjG7I9Q=
-			</data>
 			<key>hash2</key>
 			<data>
-			AJq/ucyEpwjqqaCIlOoJIwggN4lqsiwALsQONm3+hgE=
+			/GNQqxaEaHmT55ToykDPcqaj83xcyq3M3mRhYBD27qU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			20B6EREOhGv1fUEDMsDWmmaYWfw=
-			</data>
 			<key>hash2</key>
 			<data>
 			RwbOZ48QS4++EtkcrWD+2LbF3UESvAZvP7kepg8AS8U=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gOOIgdv7OxZfnvNc+kOyjqwA1bGAWKEnWIwpQZOEHJ8=
 			</data>
 		</dict>
 	</dict>
