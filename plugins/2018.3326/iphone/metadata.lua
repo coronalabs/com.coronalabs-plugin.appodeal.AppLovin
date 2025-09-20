@@ -6,7 +6,7 @@ local metadata =
 		staticLibs = { 'APDAppLovinAdapter', "objc", "sqlite3", "z" },
 
 		frameworks = {"CoreGraphics", "SafariServices","SystemConfiguration", "AdSupport", "StoreKit", "CoreTelephony", "AppLovinSDK" },
-		frameworksOptional = {"WebKit", "AppTrackingTransparency"},
+		frameworksOptional = {"WebKit", "AppTrackingTransparency", "Network"},
 	},
 }
 
