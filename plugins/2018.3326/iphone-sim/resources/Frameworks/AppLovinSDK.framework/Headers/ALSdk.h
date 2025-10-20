@@ -18,10 +18,9 @@
 NS_ASSUME_NONNULL_BEGIN
 
 /**
- * This is a base class for the AppLovin iOS SDK.
+ * This is the base class for the AppLovin SDK.
  */
 @interface ALSdk : NSObject
-
 
 #pragma mark - High Level SDK Properties
 
@@ -49,11 +48,6 @@ NS_ASSUME_NONNULL_BEGIN
  * The SDK configuration object that the SDK creates when you initialize the SDK.
  */
 @property (nonatomic, strong, readonly) ALSdkConfiguration *configuration;
-
-/**
- * @deprecated This property has been moved to @c ALSdkSettings and will be removed in a future SDK version.
- */
-@property (nonatomic, copy, nullable) NSString *userIdentifier __deprecated_msg("This property has been moved to @c ALSdkSettings and will be removed in a future SDK version.");
 
 /**
  * The @c MASegmentCollection object that the SDK had been initialized with.
@@ -84,13 +78,6 @@ NS_ASSUME_NONNULL_BEGIN
 #pragma mark - MAX
 
 /**
- * The mediation provider. Set this either by using one of the provided strings in ALMediationProvider.h, or your own string if you do not find an applicable one there.
- *
- * @deprecated This property has been moved to @c ALSdkInitializationConfiguration and will be removed in a future SDK version.
- */
-@property (nonatomic, copy, nullable) NSString *mediationProvider __deprecated_msg("This setter has been moved to @c ALSdkInitializationConfiguration and will be removed in a future SDK version.");
-
-/**
  * The list of available mediation networks, as an array of @c MAMediatedNetworkInfo objects.
  */
 @property (nonatomic, strong, readonly) NSArray<MAMediatedNetworkInfo *> *availableMediatedNetworks;
@@ -119,6 +106,15 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void)showCreativeDebugger;
 
+#pragma mark - Axon Advertiser Services
+
+/**
+ * Processes the incoming deep link / Universal Link.
+ *
+ * @param incomingURL The URL used to open or bring the app into the foreground. It may contain query parameters that need to be filtered and processed.
+ */
+- (void)processDeepLink:(NSURL *)incomingURL;
+
 #pragma mark - SDK Initialization
 
 /**
@@ -132,9 +128,7 @@ typedef void (^ALSdkInitializationCompletionHandler)(ALSdkConfiguration *configu
 @property (nonatomic, assign, readonly, getter=isInitialized) BOOL initialized;
 
 /**
- * Gets a shared instance of AppLovin SDK.
- *
- * @return The shared instance of AppLovin’s SDK, or @c nil (indicating an error) if the SDK key is not set in the application’s @code Info.plist @endcode.
+ * @return The shared instance of AppLovin’s SDK.
  */
 + (ALSdk *)shared;
 
@@ -153,77 +147,6 @@ typedef void (^ALSdkInitializationCompletionHandler)(ALSdkConfiguration *configu
 - (instancetype)init __attribute__((unavailable("Use +[ALSdk shared].")));
 + (instancetype)new NS_UNAVAILABLE;
 
-@end
-
-@interface ALSdk (Deprecated)
-
-- (void)setPluginVersion:(NSString *)pluginVersion __deprecated_msg("This method is deprecated and will be removed in a future SDK version. (see ALSdkInitializationConfiguration.pluginVersion)");
-
-/**
- * Initializes the SDK.
- */
-- (void)initializeSdk __deprecated_msg("This method is deprecated and will be removed in a future SDK version. Please use `-[[ALSdk shared] initializeWithConfiguration:completionHandler:]` instead.");
-
-/**
- * Initializes the SDK with a given completion block.
- *
- * The SDK invokes the callback on the main thread.
- *
- * @param completionHandler The callback that the SDK will call when the SDK finishes initializing.
- *
- * @see <a href="https://developers.applovin.com/en/ios/overview/integration#initialize-the-sdk">MAX Integration Guide ⇒ iOS ⇒ Overview ⇒ Integration ⇒ Initialize the SDK</a>
- */
-- (void)initializeSdkWithCompletionHandler:(nullable ALSdkInitializationCompletionHandler)completionHandler __deprecated_msg("This method is deprecated and will be removed in a future SDK version. Please use `-[[ALSdk shared] initializeWithConfiguration:completionHandler:]` instead.");
-
-/**
- * Initializes the default instance of AppLovin SDK.
- *
- * @warning Make sure your SDK key is set in the application’s @code Info.plist @endcode under the property @c AppLovinSdkKey.
- *
- * @see <a href="https://developers.applovin.com/en/ios/overview/integration#initialize-the-sdk">MAX Integration Guide ⇒ iOS ⇒ Overview ⇒ Integration ⇒ Initialize the SDK</a>
- */
-+ (void)initializeSdk __deprecated_msg("This method is deprecated and will be removed in a future SDK version. Please use `-[[ALSdk shared] initializeWithConfiguration:completionHandler:]` instead.");
-
-/**
- * Initializes the default instance of AppLovin SDK.
- *
- * @warning Make sure your SDK key is set in the application’s @code Info.plist @endcode under the property @c AppLovinSdkKey.
- *
- * @param completionHandler The callback that the SDK will run on the main queue when the SDK finishes initializing.
- *
- * @see <a href="https://developers.applovin.com/en/ios/overview/integration#initialize-the-sdk">MAX Integration Guide ⇒ iOS ⇒ Overview ⇒ Integration ⇒ Initialize the SDK</a>
- */
-+ (void)initializeSdkWithCompletionHandler:(nullable ALSdkInitializationCompletionHandler)completionHandler __deprecated_msg("This method is deprecated and will be removed in a future SDK version. Please use `-[[ALSdk shared] initializeWithConfiguration:completionHandler:]` instead.");
-
-/**
- * Gets a shared instance of AppLovin SDK.
- *
- * @warning Make sure your SDK key is set in the application’s @code Info.plist @endcode under the property @c AppLovinSdkKey.
- *
- * @param settings An SDK settings object.
- *
- * @return The shared instance of AppLovin’s SDK, or @c nil (indicating an error) if the SDK key is not set in the application’s @code Info.plist @endcode.
- */
-+ (nullable ALSdk *)sharedWithSettings:(ALSdkSettings *)settings __deprecated_msg("This method is deprecated and will be removed in a future SDK version. Please use `+[ALSdk shared]` and initialize with `-[[ALSdk shared] initializeWithConfiguration:completionHandler:]` as soon as possible");
-
-/**
- * Gets an instance of AppLovin SDK by using an SDK key.
- *
- * @param key SDK key to use for the instance of the AppLovin SDK.
- *
- * @return An instance of AppLovin’s SDK, or @c nil (indicating an error) if @c key is not set.
- */
-+ (nullable ALSdk *)sharedWithKey:(NSString *)key __deprecated_msg("This method is deprecated and will be removed in a future SDK version. Please use `+[ALSdk shared]` and initialize with `-[[ALSdk shared] initializeWithConfiguration:completionHandler:]` as soon as possible");
-
-/**
- * Gets an instance of AppLovin SDK by using an SDK key and providing SDK settings.
- *
- * @param key       SDK key to use for the instance of the AppLovin SDK.
- * @param settings  An SDK settings object.
- *
- * @return An instance of AppLovin’s SDK, or @c nil (indicating an error) if @c key is not set.
- */
-+ (nullable ALSdk *)sharedWithKey:(NSString *)key settings:(ALSdkSettings *)settings __deprecated_msg("This method is deprecated and will be removed in a future SDK version. Please use `+[ALSdk shared]` and initialize with `-[[ALSdk shared] initializeWithConfiguration:completionHandler:]` as soon as possible");
 @end
 
 NS_ASSUME_NONNULL_END
